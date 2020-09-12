@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(211,211,211);
+    
+}
+.card{
+    max-width: 960px;
+    margin-top:5%;
+    background-color: rgb(220,220,220);
+    width: 500px;
+    height: fit-content;
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.5), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+img{
+    margin:0px;
+    width: 200px;
+    height: 200px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkblue;
+    padding:5px 10px 5px 10px ;
+    margin:0px;
+}
+p{
+    font-size: medium;
+    margin-bottom: 5px;
+}
+.fa-envelope
+{
+    font-size: 1.5em;
+    color:rgb(0,15,0);
+   
+}
+small{
+    color:rgb(0,15,0);
+}
+.fa-facebook-square{
+    font-size: 3em;
+    color:#3b5998;
+}
+.fa-twitter-square{
+    font-size: 3em;
+    color: #00acee ;
+}
+.fa-instagram-square{
+    font-size: 3em;
+    color: #fb3958;
+}

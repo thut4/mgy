@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(204, 202, 204);
+}
+.container-fluid{
+    max-width: 960px;
+}
+
+.row{
+    margin-top: 3px;
+    margin-left: 5px;
+}
+iframe {
+    width:340px;
+    height: 205px;
+    
+}
+.get-started-btn{
+    font-size: medium;
+    color: teal;
+}
+.container{
+    max-width: 960px;
+}
+.list-group-item {
+    width: 250px;
+    padding: 10px 10px;
+}
+.rounded{
+    width: 150px;
+    height: 100px;
+}
+img.rounded-0{
+    margin: 0px;
+    width: 35px;
+    height: 35px;
+    color:royalblue;
+}
+h5{
+    font-size: medium;
+}
